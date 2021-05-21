@@ -7,8 +7,13 @@
 * Хочу работать в дружном коллективе профессионалов
 
 #### Мой стек:
-
-
+* JavaScript
+* HTML
+* CSS
+* REACT
+* REST API
+* WEBPACK
+* Express.js
 
 #### Контакты:
 ![telegram (3)](https://user-images.githubusercontent.com/70646350/119164091-ba4c7180-ba64-11eb-838e-7e36153c3694.png)
