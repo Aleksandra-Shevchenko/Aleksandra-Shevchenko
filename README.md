@@ -13,6 +13,7 @@
 
 
 
-#### Контакты:
-[![telegram (3)](https://user-images.githubusercontent.com/70646350/119164091-ba4c7180-ba64-11eb-838e-7e36153c3694.png)](https://t.me/new_sasha)
-
+---------------------------
+[![telegram (4)](https://user-images.githubusercontent.com/70646350/119324636-bac55200-bc88-11eb-96f9-3f1357bd3d3d.png)](https://t.me/new_sasha)&nbsp;&nbsp;
+[![instagram](https://user-images.githubusercontent.com/70646350/119324796-e34d4c00-bc88-11eb-8327-e5e9276e1b9b.png)](https://www.instagram.com/sasha_new)&nbsp;&nbsp;
+[![whatsapp](https://user-images.githubusercontent.com/70646350/119326020-26f48580-bc8a-11eb-8dc8-42c703cf947c.png)](https://wa.me/79811251354)
