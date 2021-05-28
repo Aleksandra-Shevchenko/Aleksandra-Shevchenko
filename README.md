@@ -19,3 +19,4 @@
 
 ---------------------
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Aleksandra-Shevchenko&show_icons=true&theme=nord&bg_color=5e6469)  
+![Profile views](https://gpvc.arturio.dev/Aleksandra-Shevchenko)  
