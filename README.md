@@ -18,4 +18,4 @@
 [![whatsapp (1)](https://user-images.githubusercontent.com/70646350/119327478-b189b480-bc8b-11eb-8897-22dbd8a529ad.png)](https://wa.me/79811251354)
 
 ---------------------
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Aleksandra-Shevchenko&show_icons=true)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Aleksandra-Shevchenko&show_icons=true&theme=nord&bg_color=5e6469)  
